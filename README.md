@@ -23,6 +23,4 @@ This project is a replica of the **Amazon** homepage created using **HTML** and 
 2. Open the `index.html` file in any modern web browser to view the project.
 3. Explore the design and feel free to modify the code for learning purposes.
 
----
 
-Feel free to customize this according to your preferences or any additional features you may have included.
