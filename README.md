@@ -1,7 +1,3 @@
-# Amazon_Clone
-Here’s a description you can use for the `README.md` file of your project:
-
----
 
 # Amazon Homepage Clone
 
